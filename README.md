@@ -1,5 +1,3 @@
-# AI-ML-
-This project simulates an autonomous delivery agent navigating a city grid to find the most efficient path from a start point to a destination. It implements and compares three popular p The core objective is to demonstrate how different algorithms solve the same problem, with a special focus on fuel optimization using the A* search algorithm.
 <h1>🤖 Autonomous Delivery Agent: Pathfinding Simulator🗺️</h1>
 This project simulates an autonomous delivery agent navigating a city grid to find the most efficient path from a start point to a destination. It implements and compares three popular pathfinding algorithms: A* Search, Breadth-First Search (BFS), and Depth-First Search (DFS).<br>
 
